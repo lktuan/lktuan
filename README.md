@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 
 🤝 Connect with me:
 
-<a href="https://www.facebook.com/toilatuan.lk/"><img align="left" src="https://raw.githubusercontent.com/lktuan/lktuan/main/img/facebook.svg" alt="Tuan Le | Facebook" width="21px"/></a>
-
-<a href="https://www.linkedin.com/in/tuanlekhac/"><img align="left" src="https://raw.githubusercontent.com/lktuan/lktuan/main/img/linkedin.svg" alt="Tuan Le | LinkedIn" width="21px"/></a>
-
-<a href="mailto:tuan.lekhac0905@gmail.com"><img align="left" src="https://raw.githubusercontent.com/lktuan/lktuan/main/img/gmail.svg" alt="Tuan Le | Gmail" width="21px"/></a>
-</br>
+<div>
+<a href="https://www.facebook.com/toilatuan.lk/"><img align="left" src="https://raw.githubusercontent.com/lktuan/lktuan/main/img/facebook.svg" alt="Tuan Le | Facebook" width="36px"/></a>
+<sp></sp>
+<a href="https://www.linkedin.com/in/tuanlekhac/"><img align="left" src="https://raw.githubusercontent.com/lktuan/lktuan/main/img/linked-in.svg" alt="Tuan Le | LinkedIn" width="36px"/></a>
+<sp></sp>
+<a href="mailto:tuan.lekhac0905@gmail.com"><img align="left" src="https://raw.githubusercontent.com/lktuan/lktuan/main/img/gmail.svg" alt="Tuan Le | Gmail" width="36px"/></a>
+</div>
