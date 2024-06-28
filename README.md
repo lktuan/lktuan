@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/tuanlekhac/"><img align="left" src="https://raw.githubusercontent.com/lktuan/lktuan/main/img/linkedin.svg" alt="Tuan Le | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/tuanlekhac/"><img align="left" src="data:img/linkedin.png;base64,iVBORwA" alt="Tuan Le | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/tuanlekhac/"><img align="left" src="data:img/linkedin.png;base64,iVBORwA" alt="Tuan Le | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/tuanlekhac/"><img align="left" src="data:img/linkedin.png;base64,iVBORwA" alt="Tuan Le | LinkedIn" width="21px"/></a>
 
 </br>
