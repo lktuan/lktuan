@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I am [Tuan](https://lktuan.github.io/) 👋
 
 <!--
 **lktuan/lktuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m a **Data Science Enthusiast** and currently working as a Risk Modeler at [Validus Vietnam](https://validus.vn/).
+
+🌱 I’m currently learning various data stacks, from data engineering tools like Airflow and DBT to ML topics like Neural Networks. My main focuses are **Bayesian Statistics** and **Causal Inference**.
+
+🤝 Connect with me:
+<a href="https://www.linkedin.com/in/tuanlekhac/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Tuan Le | LinkedIn" width="21px"/></a>
+</br>
