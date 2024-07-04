@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
 🤝 Connect with me:
 
-<div>
-<a href="https://www.facebook.com/toilatuan.lk/"><img align="left" src="https://raw.githubusercontent.com/lktuan/lktuan/main/img/facebook.svg" alt="Tuan Le | Facebook" width="36px"/></a>
+<p aligh="left">
+<a href="https://www.facebook.com/toilatuan.lk/"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="Tuan Le | Facebook" height = "30px" width="40px"/></a>
 <sp></sp>
-<a href="https://www.linkedin.com/in/tuanlekhac/"><img align="left" src="https://raw.githubusercontent.com/lktuan/lktuan/main/img/linked-in.svg" alt="Tuan Le | LinkedIn" width="36px"/></a>
+<a href="https://www.linkedin.com/in/tuanlekhac/"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tuan Le | Linked In" height = "30px" width="40px"/></a>
 <sp></sp>
-<a href="mailto:tuan.lekhac0905@gmail.com"><img align="left" src="https://raw.githubusercontent.com/lktuan/lktuan/main/img/gmail.svg" alt="Tuan Le | Gmail" width="36px"/></a>
-</div>
+<a href="mailto:tuan.lekhac0905@gmail.com"><img align="left" src="https://raw.githubusercontent.com/lktuan/lktuan/main/img/gmail.svg" alt="Tuan Le | Gmail" height = "30px" width="40px"/></a>
+</p>
