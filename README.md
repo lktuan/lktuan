@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 <sp></sp>
 <a href="https://www.linkedin.com/in/tuanlekhac/"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tuan Le | Linked In" height = "30px" width="40px"/></a>
 <sp></sp>
-<a href="mailto:tuan.lekhac0905@gmail.com"><img align="left" src="https://raw.githubusercontent.com/lktuan/lktuan/main/img/gmail.svg" alt="Tuan Le | Gmail" height = "30px" width="40px"/></a>
+<a href="mailto:tuan.lekhac0905@gmail.com"><img align="left" src="https://raw.githubusercontent.com/lktuan/lktuan/main/img/gmail.svg" alt="Tuan Le | Gmail" height = "35px" width="50px"/></a>
 </p>
